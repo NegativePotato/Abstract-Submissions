@@ -1,0 +1,170 @@
+---
+title: "Blitz Talk Abstracts Symposium 2025" 
+author: "Scoring Material" 
+output: word_document
+---
+
+\newpage
+
+## Blitz Talk Abstract #1
+**Title:** NA\
+**Abstract:** êfsaVD`16\
+
+\newpage
+
+## Blitz Talk Abstract #2
+**Title:** NA\
+**Abstract:** êfsaVD`1\
+
+\newpage
+
+## Blitz Talk Abstract #3
+**Title:** NA\
+**Abstract:** êfsaVD`12\
+
+\newpage
+
+## Blitz Talk Abstract #4
+**Title:** NA\
+**Abstract:** Mitochondrial population maintenance in neurons is essential for neuron function and survival. Contact sites between mitochondria and the endoplasmic reticulum (ER) are poised to regulate mitochondrial homeostasis in neurons. These contact sites can function to facilitate transfer of calcium and lipids between the organelles and have been shown to regulate aspects of mitochondrial fission and fusion dynamics. VapB is an ER membrane protein present at a subset of ER-mitochondria contact sites. A proline-to-serine mutation at amino acid 56 (P56S) in VapB correlates with susceptibility to amyotrophic lateral sclerosis (ALS) type 8. Given the relationship between failed mitochondrial health and neurodegenerative disease, we investigated the function of VapB in mitochondrial population maintenance. We demonstrate that transgenic expression of VapBP56S in zebrafish larvae (sex undetermined) increased mitochondrial biogenesis, causing increased mitochondrial population size in the axon terminal. Expression of wild type VapB did not alter biogenesis but, instead, increased mitophagy in the axon terminal. Using genetic manipulations to independently increase mitochondrial biogenesis in neurons, we show that biogenesis is normally balanced by mitophagy to maintain a constant mitochondrial population size. VapBP56S transgenics fail to increase mitophagy to compensate for the increase in mitochondrial biogenesis, suggesting an impaired mitophagic response. Finally, using a synthetic ER-mitochondria tether, we show that VapB’s function in mitochondrial turnover is likely independent of ER-mitochondrial tethering by contact sites. Our findings demonstrate that VapB can control mitochondrial turnover in the axon terminal, and this function is altered by the P56S ALS-linked mutation.\
+
+\newpage
+
+## Blitz Talk Abstract #5
+**Title:** NA\
+**Abstract:** %$#\
+
+\newpage
+
+## Blitz Talk Abstract #6
+**Title:** NA\
+**Abstract:** qwebfhdmb a\
+
+\newpage
+
+## Blitz Talk Abstract #7
+**Title:** NA\
+**Abstract:** êfsaVD`2\
+
+\newpage
+
+## Blitz Talk Abstract #8
+**Title:** NA\
+**Abstract:** êfsaVD`7\
+
+\newpage
+
+## Blitz Talk Abstract #9
+**Title:** NA\
+**Abstract:** More than 120,000 residents in Wisconsin live with Alzheimer's disease and related dementias and may experience social isolation and loneliness, negatively affecting their health and quality of life, as well as that of their family caregivers.  To combat these negative outcomes, persons living with dementia and their families are seeking meaningful programs in supportive social and community settings.  Evidence supports the benefits of non-pharmacological interventions involving animals for persons living with dementia. The animal “acts as a bonding agent, placing persons living with dementia at ease, in a state of immediate intimacy, and positions the interventionist as less threatening,” thus creating a welcoming environment for behavior change. One such non-pharmacological intervention is Riding in the Moment — a nationwide standardized adaptive horseback riding program.  Riding in the Moment is an evidence-informed adaptive horseback riding program designed to enhance the health and quality of life of persons living with dementia and their families. Riding in the Moment is unique because it incorporates horses and other equine interactions within the natural environment, providing an enriched environmental opportunity that persons living with dementia may not experience otherwise. Over 8 weeks, participants are provided a safe, supportive, and dynamic context where they can ride, groom, and pet horses and socialize with friends, staff, and other community member volunteers. This program is led by a national community academic team consisting of dementia and caregiving advocates, academic researchers, aging and disability service experts, and equine-assisted service professionals. Preliminary findings show that Riding in the Moment enhances the quality of life of persons living with dementia and that of their caregivers and is deemed a safe, acceptable, and appropriate non-pharmacological intervention for persons living with dementia.\
+
+\newpage
+
+## Blitz Talk Abstract #10
+**Title:** NA\
+**Abstract:** êfsaVD`4\
+
+\newpage
+
+## Blitz Talk Abstract #11
+**Title:** NA\
+**Abstract:** êfsaVD`8\
+
+\newpage
+
+## Blitz Talk Abstract #12
+**Title:** NA\
+**Abstract:** qwfbekvbw\
+
+\newpage
+
+## Blitz Talk Abstract #13
+**Title:** NA\
+**Abstract:** êfsaVD`11\
+
+\newpage
+
+## Blitz Talk Abstract #14
+**Title:** NA\
+**Abstract:** êfsaVD`5\
+
+\newpage
+
+## Blitz Talk Abstract #15
+**Title:** NA\
+**Abstract:** ë Amphibians are one of the most threatened vertebrate taxa and face several threats including urbanization, disease, and climate change. Understanding how these threats alter amphibian population and communities requires an understanding of their spatial and temporal patterns. Ideally, these patterns are studied across broad spatial scales that span multiple ecoregions and include time points before and after the introduction of a threat. However, due to financial and time limitations, surveys are often limited in spatial scale and are commonly initiated only after a threat has been established. To address this gap, a relatively easy data source gaining in momentum are anuran advertisement call surveys. These surveys can be used to determine species and site occupancy and can be linked to temperature and urbanization patterns. Furthermore, these surveys can easily incorporate citizen efforts to cover broader spatial and temporal scales. In Wisconsin, USA, the Department of Natural Resources has been partnering with citizen scientists to survey twelve anuran advertisement calls across the state for 40 years. Using this dataset, we examined trends in site occupancy across the state and identified factors contributing to the occurrence of anuran species using a Bayesian occupancy model. First, we found that some species (Pseudacris crucifer and Anaxyrus americanus), had relatively stable occupancy trends throughout while species like, Lithobates sylvaticus, did not. Second, factors such as ecoregion were significant predictors of a species occupancy probability, and generally species richness decreased in higher latitudes. Third, using species cooccurrence patterns, we were able to improve estimates of species occupancy for data poor species. Lastly, we examined how urbanization decreased species richness in Madison, WI city area. Collectively, we show that citizen-collected anuran call survey data can be used to establish both spatial and temporal trends in twelve difference anuran species to inform priorities for anuran conservation efforts.\
+
+\newpage
+
+## Blitz Talk Abstract #16
+**Title:** NA\
+**Abstract:** Battlefield to space travel requires superior protective shields to ensure protection against high-velocity projectile impacts, such as bullets or micrometeorites, which can cause significant damage to personnel or components. These shields must be designed to maximize energy absorption while being lightweight. The energy absorption of the protective shield depends on many factors, such as the material rheology, layer thickness, projectile shape, and projectile velocity. Laser-induced projectile impact testing (LIPIT) is a novel ballistic impact testing setup where submicron-thick materials are impacted with microparticles in a controlled laboratory setting. Prior studies on novel emerging materials tested with LIPIT reported exceptionally high specific energy absorption compared to the bulk materials tested at the macro-scale. The current working theory is that nanofabricated protective layers significantly improve material properties and, in turn, provide superior energy absorption. However, a key underlying assumption is that the specific energy absorption is independent of the geometric scale. To address this issue, we conducted a series of LIPIT experiments at three scales (D=4,9,20 µm) and three geometries (D/t = 4,7,17), with 20-30 impact tests performed with impact velocities varying between 200 - 800 m/s. Our results reveal a geometric scale dependency where smaller scales report a higher specific energy absorption. We further demonstrate that this scale dependency is captured by the variation of ballistic limit velocity at different scales. By scaling the specific energy absorption with the ballistic limit velocity, we reveal the existence of a scale-independent master curve that can compare the material performance across scales. Our results demonstrate that the scale dependency of specific energy absorption is different for each material system; thus, the scale of the application is a crucial factor for developing superior material systems. These findings provide fundamental knowledge critical for designing superior protective shields.\
+
+\newpage
+
+## Blitz Talk Abstract #17
+**Title:** NA\
+**Abstract:** êfsaVD`6\
+
+\newpage
+
+## Blitz Talk Abstract #18
+**Title:** NA\
+**Abstract:** êfsaVD`17\
+
+\newpage
+
+## Blitz Talk Abstract #19
+**Title:** NA\
+**Abstract:** êfsaVD`3\
+
+\newpage
+
+## Blitz Talk Abstract #20
+**Title:** NA\
+**Abstract:** êfsaVD`10\
+
+\newpage
+
+## Blitz Talk Abstract #21
+**Title:** NA\
+**Abstract:** êfsaVD`9\
+
+\newpage
+
+## Blitz Talk Abstract #22
+**Title:** NA\
+**Abstract:** fd,jn,w\
+
+\newpage
+
+## Blitz Talk Abstract #23
+**Title:** NA\
+**Abstract:** êfsaVD`13\
+
+\newpage
+
+## Blitz Talk Abstract #24
+**Title:** NA\
+**Abstract:** Background: Adolescents are in a key growth period that heavily influences future brain health. Approximately 1 in 5 adolescents are obese in the US, and up to half of them exhibit some form of insulin resistance (IR). Notably, insulin acts as a metabolic hormone, a neurotrophic growth factor, and a vasodilator. Reduced vasodilation may lead to reduced cerebral blood flow (CBF), and lower CBF in older adults is associated with reduced cognition and increased risk of stroke and neurologic disease. Given this background, IR may negatively impact adolescent brain health in part due to lower CBF. Therefore, we hypothesized CBF and cognitive function would decrease as the level of IR increased.    Methods: Adolescents (n=13; age 15±2 yrs) were studied. IR was estimated by calculating HOMA-IR (fasting glucose and insulin), spanning a spectrum of IR (excluding diabetes). Subjects underwent a magnetic resonance imaging (MRI) study visit to assess cerebral perfusion and performed cognitive tests with the NIH-Toolbox.     Results: CBF was decreased in some regions of the brain as HOMA-IR increased: amygdala (r2=0.33, p=0.024) and parahippocampal gyrus (r2=0.28, p=0.041). Borderline significant decreases were found for: total gray matter (r2=0.26, p=0.051), anterior cingulate cortex (r2=0.26, p=0.052), and hippocampus (r2=0.23, p=0.071) perfusion as HOMA-IR increased. However, not all regions were decreased: total white matter, precuneus, thalamus proper, and entorhinal cortex. Increasing HOMA-IR in adolescents showed a trend of decreased cognitive function: Pattern Comparison Processing Speed (r2=0.635, p=0.04), Flanker Inhibitory Control and Attention (r2=0.18, p=0.286), Picture Sequence (r2=0.47, p=0.06), and Verbal Comp (r2=0.31, p=0.074).   Conclusions:  These results suggest there is a significant reduction in CBF at key brain regions associated with memory, processing speed, and verbal comprehension in adolescents with increasing HOMA-IR. Additionally, total gray matter shows a trend of decreased CBF with increasing insulin resistance. These findings partially support our hypothesis that CBF and cognitive function are associated with increasing IR in adolescents, which may negatively impact long-term brain health.\
+
+\newpage
+
+## Blitz Talk Abstract #25
+**Title:** NA\
+**Abstract:** êfsaVD`14\
+
+\newpage
+
+## Blitz Talk Abstract #26
+**Title:** NA\
+**Abstract:** dqsjcbvlqli32\
+
+\newpage
+
+## Blitz Talk Abstract #27
+**Title:** NA\
+**Abstract:** qewbfqm, ,qeowq\
+
+\newpage
+

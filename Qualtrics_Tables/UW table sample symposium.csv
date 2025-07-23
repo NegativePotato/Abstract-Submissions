@@ -1,0 +1,29 @@
+StartDate,EndDate,Status,IPAddress,Progress,Duration (in seconds),Finished,RecordedDate,ResponseId,RecipientLastName,RecipientFirstName,RecipientEmail,ExternalReference,LocationLatitude,LocationLongitude,DistributionChannel,UserLanguage,Q1,Q2,Q3,Q4,Q5,Q6,Blitz Yes/No,Art Yes/No,Q43,Q44,Q8,Q9,Q10,Q26,Q25,Q27,Q12,Q13,reindex,Day,Month,Year
+Start Date,End Date,Response Type,IP Address,Progress,Duration (in seconds),Finished,Recorded Date,Response ID,Recipient Last Name,Recipient First Name,Recipient Email,External Data Reference,Location Latitude,Location Longitude,Distribution Channel,User Language,First Name,Last Name,Email Address,Pronouns (optional),Job Title,Department,"Would you like to present a Blitz Talk or a Poster during the symposium?
+
+
+
+Abstracts that are not accepted as a Blitz Talk presentation will automatically considered for a poster presentation.","Would you like to present a Art piece for the Art Exhibit during the symposium? (Submission deadline Friday, August 22nd, 2025)",Would you like to present a Poster during the symposium?,"Would you like to present a Art piece for the Art Exhibit during the symposium? (Submission deadline Friday, August 22nd, 2025)",Abstract Title,Authors,Copy and paste your abstract here. (~300 words),Authors,Abstract Title,Copy and paste your abstract here. (~300 words),Please describe the art you'd like to bring and share. We welcome submissions ranging from poetry to paintings or anything in between.,What do you need to properly display your artwork? We can provide poster boards to hang up artwork or props on the table to hold up canvas or photos.,reindex,Day,Month,Year
+"{""ImportId"":""startDate"",""timeZone"":""America/Denver""}","{""ImportId"":""endDate"",""timeZone"":""America/Denver""}","{""ImportId"":""status""}","{""ImportId"":""ipAddress""}","{""ImportId"":""progress""}","{""ImportId"":""duration""}","{""ImportId"":""finished""}","{""ImportId"":""recordedDate"",""timeZone"":""America/Denver""}","{""ImportId"":""_recordId""}","{""ImportId"":""recipientLastName""}","{""ImportId"":""recipientFirstName""}","{""ImportId"":""recipientEmail""}","{""ImportId"":""externalDataReference""}","{""ImportId"":""locationLatitude""}","{""ImportId"":""locationLongitude""}","{""ImportId"":""distributionChannel""}","{""ImportId"":""userLanguage""}","{""ImportId"":""QID1_TEXT""}","{""ImportId"":""QID2_TEXT""}","{""ImportId"":""QID3_TEXT""}","{""ImportId"":""QID4_TEXT""}","{""ImportId"":""QID5_TEXT""}","{""ImportId"":""QID6_TEXT""}","{""ImportId"":""QID23""}","{""ImportId"":""QID36""}","{""ImportId"":""QID43""}","{""ImportId"":""QID44""}","{""ImportId"":""QID8_TEXT""}","{""ImportId"":""QID9_TEXT""}","{""ImportId"":""QID10_TEXT""}","{""ImportId"":""QID26_TEXT""}","{""ImportId"":""QID25_TEXT""}","{""ImportId"":""QID27_TEXT""}","{""ImportId"":""QID12_TEXT""}","{""ImportId"":""QID13_TEXT""}","{""ImportId"":""reindex""}","{""ImportId"":""Day""}","{""ImportId"":""Month""}","{""ImportId"":""Year""}"
+5/7/2025 12:59,5/7/2025 12:59,1,,100,20,1,5/7/2025 12:59,R_7co2jSF1Qy1eKzW,,,,,43.0812,-89.3838,preview,EN,,,,,,,,,,,,,,,,,,,,,,
+5/8/2025 15:06,5/8/2025 15:07,1,,100,98,1,5/8/2025 15:07,R_7whtThBVPtbt5vB,,,,,43.0812,-89.3838,preview,EN,,,,,,,,,,,,,,,,,,,,,,
+5/14/2025 8:08,5/14/2025 8:08,1,,100,8,1,5/14/2025 8:08,R_5AJSZcloIQIql7r,,,,,43.0812,-89.3838,preview,EN,,,,,,,,,,,,,,,,,,,,,,
+5/14/2025 8:08,5/14/2025 8:08,1,,100,8,1,5/14/2025 8:08,R_5RrdxiwTVmMRZ9n,,,,,43.0812,-89.3838,preview,EN,,,,,,,,,,,,,,,,,,,,,,
+5/14/2025 8:09,5/14/2025 8:09,1,,100,9,1,5/14/2025 8:09,R_5SnW1iNA4ynbxC1,,,,,43.0812,-89.3838,preview,EN,,,,,,,,,,,,,,,,,,,,,,
+5/14/2025 8:14,5/14/2025 8:14,1,,100,28,1,5/14/2025 8:14,R_5zcDdhEJZmpiYaR,,,,,43.0812,-89.3838,preview,EN,,,,,,,,,,,,,,,,,,,,,,
+5/15/2025 12:35,5/15/2025 12:36,1,,100,33,1,5/15/2025 12:36,R_34vkfDaeeLqxchb,,,,,43.064,-89.3965,preview,EN,,,,,,,,,,,,,,,,,,,,,,
+5/15/2025 13:06,5/15/2025 13:07,1,,100,43,1,5/15/2025 13:07,R_3S2H0DlXeqBq2EH,,,,,43.064,-89.3965,preview,EN,,,,,,,,,,,,,,,,,,,,,,
+5/15/2025 13:07,5/15/2025 13:08,1,,100,14,1,5/15/2025 13:08,R_30wkG3JBKI8Rv4B,,,,,43.064,-89.3965,preview,EN,,,,,,,,,,,,,,,,,,,,,,
+5/15/2025 13:08,5/15/2025 13:08,1,,100,37,1,5/15/2025 13:08,R_3VDdxYpgUp0uPnf,,,,,43.064,-89.3965,preview,EN,,,,,,,,,,,,,,,,,,,,,,
+5/15/2025 13:40,5/15/2025 13:41,1,,100,36,1,5/15/2025 13:41,R_3dF8FdaLTZnjtHX,,,,,43.064,-89.3965,preview,EN,,,,,,,,,,,,,,,,,,,,,,
+5/15/2025 13:43,5/15/2025 13:44,1,,100,49,1,5/15/2025 13:44,R_3YuuvvZNxXW3yO5,,,,,43.064,-89.3965,preview,EN,,,,,,,,,,,,,,,,,,,,,,
+5/15/2025 13:46,5/15/2025 13:47,1,,100,27,1,5/15/2025 13:47,R_3D5fYiwqpRQZ8uh,,,,,43.064,-89.3965,preview,EN,,,,,,,,,,,,,,,,,,,,,,
+5/15/2025 13:51,5/15/2025 13:51,0,,100,33,1,5/15/2025 13:51,R_54uhNYdAOQwb2Ml,,,,,43.064,-89.3965,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,
+5/19/2025 14:29,5/19/2025 14:30,1,,100,21,1,5/19/2025 14:30,R_30gnTcNSxHg9OKd,,,,,43.0812,-89.3838,preview,EN,,,,,,,,,,,,,,,,,,,,,,
+5/15/2025 13:48,5/15/2025 13:51,0,,42,191,0,5/22/2025 13:52,R_7fiFsK8jS4u2uLq,,,,,43.064,-89.3965,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,
+6/11/2025 8:14,6/11/2025 8:16,0,,100,101,1,6/11/2025 8:16,R_6afZAce4fhkrc3J,,,,,43.0684,-89.4293,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,
+6/16/2025 10:48,6/16/2025 16:22,0,,100,20061,1,6/16/2025 16:22,R_1Pej4dv5ei4cHRd,,,,,43.0725,-89.4491,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,
+6/10/2025 15:18,6/10/2025 15:20,0,,54,122,0,6/17/2025 15:20,R_32tOMfOZyUwXqki,,,,,43.0725,-89.4491,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,
+6/11/2025 12:58,6/11/2025 13:16,0,,29,1096,0,6/18/2025 13:16,R_7lf3urB1M7K9t3H,,,,,43.0725,-89.4491,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,
+6/11/2025 9:07,6/11/2025 13:41,0,,54,16439,0,6/18/2025 13:41,R_7dj1SLBi6fzUThl,,,,,43.0725,-89.4491,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,
+6/30/2025 10:33,6/30/2025 10:36,0,,100,142,1,6/30/2025 10:36,R_7DokDY3YhQ9jHG1,,,,,43.064,-89.3965,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,
