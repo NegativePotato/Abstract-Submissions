@@ -1,6 +1,7 @@
 library(dplyr) 
 library(readxl)
 library(here)
+library(openxlsx)
 
 # read file
 blit_talk_abstracts_qualtrics_file <- "UW table sample symposium.xlsx"
@@ -50,9 +51,11 @@ formatted_abstract_for_program <- function(df, abstract_type = "Poster",
 }
 
 # Blitz Talk
-blitz_text.df <- blitz.df %>% 
+blitz_clean.df <- blitz.df %>% 
   clean_qualtrics_table_for_review() %>% 
-  rowwise() %>% 
+  relocate(abstract_number_for_review, abstract_title, abstract_text)
+
+blitz_text.df <- blitz_clean.df %>%  rowwise() %>% 
   dplyr::summarise(text = formatted_abstract_for_program(across(everything()), 
                                                          abstract_type = "Blitz Talk Abstract", 
                                                          anonymize = T))
@@ -81,5 +84,12 @@ for (i_row in 1:nrow(blitz_text.df)) {
   cat(blitz_text.df$text[i_row], file=fout)
 }
 close(fout)
+
+
+write.xlsx(blitz_clean.df, 
+           file = file.path(here(), "Scripts", 
+                            "Blitz_Talks_Abstracts_For_Scoring_Materials", 
+                            "blitz_abstracts_table_for_review.xlsx"))
+
 
 
