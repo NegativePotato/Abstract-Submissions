@@ -4,7 +4,7 @@
 
 # Scoring Materials
 1. Download the submission table from the Symposium Qualtrics submission form in EXCEL format (NOT csv, you will lose the special characters if you do csv), 
-![](Assets/Qualtrics_Download_Table)
+![Qualtrics Download Tool](Assets/Qualtrics_Download_Table.png)
 2. Copy the file into the folder "Qualtrics_Tables", 
 3. Open the project `Abstract Submissions.Rproj` in Rstudio
   * Open the file `create_text_file_for_scoring_materials` (in the Scripts folder)
