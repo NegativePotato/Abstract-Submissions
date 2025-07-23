@@ -1,4 +1,4 @@
-Requirements
+# Requirements
 * Rstudio + Libraries to run R Markdown (will at least require tinytex) 
 * R libraries : `dplyr`, `readxl`, `here`
 
